@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PY
-- 👀 I’m interested in Programming, ethical hacking and cybersecurity
+- 👀 I’m interested in Programming and cybersecurity
 - 💞️ I’m looking to collaborate on software development projects...
 - 📫 How to reach me ..
 
